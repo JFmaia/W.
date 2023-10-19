@@ -1,5 +1,5 @@
-import '../../public/css/reset.css'
 import '../../public/css/style.css'
+import '../../public/css/reset.css'
 export const metadata = {
   title: 'W.web',
   description: 'Notícias 24hrs aqui!!',
